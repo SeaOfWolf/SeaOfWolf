@@ -1,7 +1,7 @@
 ### Hi, hello and hello 👋
 
 ### 🔭 I’m currently working on 
-- a first project to commit here!
+- A first project to commit here!
 ### 🌱 I’m learning
 - At the moment AWS is a focus, Azure and The Hive Project are getting some attention too
 - I could list far too much here, I never stop learning
