@@ -11,7 +11,7 @@
 - Skateboarding
 - Gynmastics
 ### 📫 How to reach me
-[@AlexMorg4n](https://twitter.com/alexmorg4n) - Twitter
-[alexander-morgan](https://linkedin.com/in/alexander-morgan-15189a11) - LinkedIn
+- [@AlexMorg4n](https://twitter.com/alexmorg4n) - Twitter
+- [alexander-morgan](https://linkedin.com/in/alexander-morgan-15189a11) - LinkedIn
 ### ⚡ Fun fact
 - I used to work as a calligrapher
