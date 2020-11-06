@@ -1,14 +1,17 @@
 ### Hi, hello and hello 👋
 
-<!--
-**SeaOfWolf/SeaOfWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on a first project to commit here! ...
-- 🌱 I’m always learning  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Twitter...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on 
+- a first project to commit here!
+### 🌱 I’m learning
+- At the moment AWS is a focus, Azure and The Hive Project are getting some attention too
+- I could list far too much here, I never stop learning
+### 💬 Talk to me about
+- Security
+- Music stuff - Guitar, drums, recording and a bit of vinyl (I just got a nice new set-up)
+- Skateboarding
+- Gynmastics
+### 📫 How to reach me
+[@AlexMorg4n](https://twitter.com/alexmorg4n) - Twitter
+[alexander-morgan](https://linkedin.com/in/alexander-morgan-15189a11) - LinkedIn
+### ⚡ Fun fact
+- I used to work as a calligrapher
