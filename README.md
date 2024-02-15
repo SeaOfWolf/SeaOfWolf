@@ -2,14 +2,10 @@
 
 ### 🔭 I’m currently working on 
 - [https://alexmorgan.uk/](https://alexmorgan.uk/) - Using Hugo and Github Actions
+- An app to count how many times a day my cat meows (it's a lot)
 ### 🌱 I’m learning
+- All the time!
 - Security Chaos Engineering. AWS is a focus, Azure and Terraform are getting some attention too
-- I could list far too much here, I never stop learning
-### 💬 Talk to me about
-- Security
-- Music - Guitar, drums, recording and a bit of vinyl (I just got a nice new set-up)
-- Skateboarding
-- Gynmastics
 ### 📫 How to reach me
 - [https://alexmorgan.uk/](https://alexmorgan.uk/)
 - [alexander-morgan](https://linkedin.com/in/alexander-morgan-15189a11) - LinkedIn
